@@ -1,0 +1,15 @@
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\bin\Debug\net6.0\Pizzaria-DS.exe
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\bin\Debug\net6.0\Pizzaria-DS.deps.json
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\bin\Debug\net6.0\Pizzaria-DS.runtimeconfig.json
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\bin\Debug\net6.0\Pizzaria-DS.dll
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\bin\Debug\net6.0\Pizzaria-DS.pdb
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.AssemblyInfoInputs.cache
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.AssemblyInfo.cs
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.dll
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\refint\Pizzaria-DS.dll
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.pdb
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\Pizzaria-DS.genruntimeconfig.cache
+C:\Users\etec\source\repos\Pizzaria-DS\Pizzaria-DS\obj\Debug\net6.0\ref\Pizzaria-DS.dll
