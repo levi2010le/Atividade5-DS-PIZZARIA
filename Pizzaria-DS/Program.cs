@@ -30,7 +30,7 @@ namespace Pizzaria_DS
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
 
-                Console.Write("CPF (com ou sem pontos): ");
+                Console.Write("CPF: ");
                 string cpf = Console.ReadLine();
 
                 Usuario usuario = new Usuario(nome, cpf);
